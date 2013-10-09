@@ -1,0 +1,24 @@
+h1 {text-align: center;
+font-size: 5em;
+font-family: 'Yeseva One', cursive;
+color: #B22222;
+text-shadow: .05em .08em .15em #333;
+}
+
+h2 {text-align: center;
+font-size: 2em;
+font-family: 'Pathway Gothic One', sans-serif;
+color: #197C7C;
+}
+
+body { color: #2F4F4F;
+background-color: #FAFAD2;
+	   font-size: 100%;
+}
+
+h3 { color: #A0522D;
+font-family: 'Pathway Gothic One', sans-serif;
+}
+
+ul { list-style-image: url(http://www.kinderpond.com/pizzasmall.gif);
+}
