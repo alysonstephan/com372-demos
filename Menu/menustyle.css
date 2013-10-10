@@ -1,24 +1,53 @@
 h1 {text-align: center;
 font-size: 5em;
 font-family: 'Yeseva One', cursive;
-color: #B22222;
-text-shadow: .05em .08em .15em #333;
+color: #A63A00;
+text-shadow: .05em .05em .15em #333;
 }
 
 h2 {text-align: center;
 font-size: 2em;
 font-family: 'Pathway Gothic One', sans-serif;
-color: #197C7C;
+color: #FF5900;
 }
 
-body { color: #2F4F4F;
-background-color: #FAFAD2;
-	   font-size: 100%;
+body { 
+ 
+ 
+ background-image: pasta.jpg;
+ background-size: cover;
+ 
 }
 
-h3 { color: #A0522D;
+h3 { color: #BF6230;
 font-family: 'Pathway Gothic One', sans-serif;
 }
 
 ul { list-style-image: url(http://www.kinderpond.com/pizzasmall.gif);
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: #2F4F4F;
+}
+
+/* These must be in order */
+
+a:visited {
+	color: #A0522D;
+}
+
+a:hover{
+	color: #B22222;
+}
+
+a:active{
+	color:red;
+}
+
+div {
+	background-color: rgba(95,212,177,.5);
 }
